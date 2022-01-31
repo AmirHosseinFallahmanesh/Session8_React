@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleFetchApi3", "SimpleFetchApi3", "{DF57CBC2-A46A-49C4-9D08-F21E2FEB9419}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\7\demo\src\SimpleFetchApi3\Container.js = E:\Course\react\New folder\7\demo\src\SimpleFetchApi3\Container.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B679631-66FF-4B60-A4F2-834A837BB257}
+	EndGlobalSection
+EndGlobal
