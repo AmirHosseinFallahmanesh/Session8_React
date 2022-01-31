@@ -8,6 +8,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleFetchApi3", "SimpleFe
 		E:\Course\react\New folder\7\demo\src\SimpleFetchApi3\Container.js = E:\Course\react\New folder\7\demo\src\SimpleFetchApi3\Container.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AxSimpleFetchApi", "AxSimpleFetchApi", "{96E9586E-D003-4F98-9EEB-35585BC3B930}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container.js = E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container.js
+		E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container1.js = E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container1.js
+		E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container2.js = E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container2.js
+		E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container3.js = E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container3.js
+		E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container4.js = E:\Course\react\New folder\7\demo\src\AxSimpleFetchApi\Container4.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
